@@ -25,7 +25,7 @@ void run_time_terror_()
     for(int i=0; i<2*n; i++){
         cin>>a[i];
         m[a[i]]++;
-    }
+    } 
 
     for(int i=0; i<=n; i++)
     {
