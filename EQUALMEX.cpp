@@ -41,7 +41,7 @@ void run_time_terror_()
         }
     }
     cout<<"YES\n";
-}
+} 
 
 int32_t main()
 {
