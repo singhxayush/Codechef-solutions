@@ -47,4 +47,4 @@ int32_t main()
 {
     fastio
     testcases run_time_terror_();
-}   
+}
