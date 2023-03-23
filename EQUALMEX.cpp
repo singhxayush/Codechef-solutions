@@ -34,8 +34,8 @@ void run_time_terror_()
                 cout<<"NO\n";
                 return;
             }
-        }
-        else{
+        } 
+        else{ 
             cout<<"YES\n";
             return;
         }

@@ -16,10 +16,11 @@ using namespace std;
 #define uns unordered_set<ll>
 #define vll vector<ll>
 
-void run_time_terror_() 
+void run_time_terror_()
 {
     int a,b,n;
     cin >> a >> b >> n;
+
     int c=a^b;
     if(c==0) {
         cout << 0 << endl;
