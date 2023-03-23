@@ -38,7 +38,7 @@ void run_time_terror_()
             cout << -1 << endl;
         }
     }
-} 
+}
 
 int32_t main()
 {

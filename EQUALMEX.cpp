@@ -17,7 +17,7 @@ using namespace std;
 #define vll vector<int>
 
 void run_time_terror_()
-{ 
+{
     int n; cin>>n;
     int a[2*n];
     int m[n+1] = {0};
