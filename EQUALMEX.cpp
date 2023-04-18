@@ -34,7 +34,7 @@ void run_time_terror_()
                 cout<<"NO\n";
                 return;
             }
-        } 
+        }
         else{ 
             cout<<"YES\n";
             return;
@@ -42,7 +42,7 @@ void run_time_terror_()
     }
     cout<<"YES\n";
 }
- 
+
 int32_t main()
 {
     fastio
